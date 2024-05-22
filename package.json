@@ -4,8 +4,7 @@
   "description": "It is a simple contact list app",
   "main": "index.js",
   "scripts": {
-    "dev": "nodemon index.js",
-    "start": "node index.js"
+    "dev": "nodemon index.js"
   },
   "author": "Manish Rao Kolte",
   "license": "ISC",
