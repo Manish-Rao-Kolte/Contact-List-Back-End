@@ -1,0 +1,215 @@
+body{
+    margin: 0px;
+    font-family: sans-serif;
+    background-color: rgb(159, 182, 182);
+}
+
+ul{
+    list-style: none;
+    padding: 0%;
+}
+
+#contact-list-container{
+    height: 50vh;
+    width: 50vw;
+    margin: auto;
+    margin-top: 5vh;
+    text-align: center;
+    padding: 1%;
+}
+
+#main-heading{
+    font-size: 2.5rem;
+}
+
+#contact-list{
+    width: 60%;
+    margin: auto;
+}
+
+#contacts{
+    display: flex;
+    justify-content: space-between;
+    padding-left: 1%;
+    padding-right: 1%;
+    margin-bottom: 0.3%;
+    box-shadow: 2px 0px 2px 0px ;
+    background-color: rgb(88, 88, 251);
+}
+
+#contacts:hover{
+    background-color: rgb(161, 158, 158);
+}
+
+#content{
+    display: flex;
+    justify-content: space-between;
+    width: 35%;
+}
+
+#contacts p{
+    color:white;
+}
+
+
+#add-section{
+    width: 60%;
+    margin: auto;
+    text-align: center;
+}
+
+#add-section input{
+    width: 41%;
+    height: 6%;
+    border: none;
+    border-bottom: 1px solid black;
+}
+
+#add-section button{
+    height: 5.7%;
+    background-color: grey;
+    color: white;
+}
+
+.position{
+
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 5%;
+    margin-inline-end: 0px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* p{
+    color:white;
+    margin:0;
+    height: inherit;
+    width: inherit;
+}
+
+
+ul{
+    list-style-type: none;
+    padding: 0%;
+}
+
+li{
+    margin: 0px;
+} */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* #form{
+    display: flex;
+    justify-content: space-between;
+    height: 8%;
+    margin-bottom: 0.2%;
+    text-align: left;
+    padding-left: 10px;
+}
+
+#name{
+    width: 45%;
+    height: 100%;
+    margin: 0px;
+    justify-content: left;
+}
+
+#phone{
+    width: 40%;
+    height: 100%;
+    margin: 0px;
+    text-align: left;
+}
+
+#delete-button{
+    display: flex;
+    flex-direction: row-reverse;
+}
+
+#main-heading{
+    color: grey;
+    font-size: 3rem;
+
+}
+
+#contact-list-container{
+    margin: auto;
+    margin-top: 5%;
+    text-align: center;
+    height: 45vh;
+    width: 45vw;
+    align-self: center;
+}
+
+#contacts{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin: auto;
+    margin-bottom: 0.1%;
+    width: 70%;
+    background-color: rgb(61, 119, 199);
+}
+
+#add-section{
+    margin: auto;
+    width: 70%;
+}
+
+#add-section input{
+    border: none;
+    width: 40%;
+    margin-right: 2.5%;
+    margin-left: -0.8%;
+    border-bottom: 1px solid black;
+}
+
+#add-section button{
+    color: white;
+    background-color: grey;
+    margin-right: 0%;
+} */
